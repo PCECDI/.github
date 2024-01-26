@@ -10,3 +10,7 @@
 We want :
 * Improve PCECDI until this program becomes THE reference ! 🤣
 * Develop simple but useful projects!
+
+## Licence
+
+ALL PCECDI-Team repositories are under GPLv3 license !
